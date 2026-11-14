@@ -131,10 +131,10 @@ print(df.head())
 
 ## 👥 Anggota Kelompok
 
-| Anggota | Nama | NIM |
-|---|---|---|
-| 1 | Muhammad Rezky Maulana | 202310370311020 |
-| 2 | **[Isi nama anggota kedua]** | **[Isi NIM lengkap dengan tiga digit akhir 091]** |
+| Anggota |         Nama           |      NIM       |
+|---      |         ---            |      ---       |
+| 1       | Muhammad Rezky Maulana | 202310370311020 
+| 2       | Muhammad Dai Takdir    | 202310370311091
 
 **Identitas repository:** `Dataset-Narkotika_020_091`, berdasarkan tiga digit terakhir NIM kedua anggota.
 
