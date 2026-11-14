@@ -1,4 +1,4 @@
-# Dataset Narkotika — Putusan Pengadilan Negeri Tangerang
+# Dataset Narkotika 020-029 — Putusan Pengadilan Negeri Tangerang
 
 **Repository:** `Dataset-Narkotika_020_091`  
 **Mata kuliah:** Temu Kembali Informasi (*Information Retrieval*)  
