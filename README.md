@@ -83,19 +83,6 @@ Informasi dalam `Overview.xlsx` harus selalu dapat ditelusuri kembali ke dokumen
 8. Susun metadata 50 dokumen dalam `Overview.xlsx`.
 9. Cocokkan informasi ringkasan dengan PDF asli sebelum publikasi.
 
-## ✅ Pemeriksaan Kualitas Data
-
-Pemeriksaan yang dianjurkan sebelum pengumpulan:
-
-- [ ] Arsip ZIP berisi **50 PDF** yang dapat dibuka.
-- [ ] `Overview.xlsx` memiliki **50 entri** dan kolom yang ditentukan dosen.
-- [ ] Nomor putusan pada Excel sesuai dengan PDF terkait.
-- [ ] Tidak ada nomor putusan ganda yang tidak disengaja.
-- [ ] Semua putusan berasal dari PN yang dipilih serta klasifikasi yang tepat.
-- [ ] Tahun dan **status berkekuatan hukum tetap** setiap putusan sesuai dengan ketentuan tugas.
-- [ ] Informasi Barang Bukti dan Amar Putusan telah dibandingkan dengan sumber PDF.
-
-Checklist di atas merupakan **kriteria verifikasi**, bukan pernyataan bahwa setiap pemeriksaan telah dilakukan. Hasil akhir perlu dibuktikan menggunakan berkas dataset.
 
 ## 💻 Cara Menggunakan Dataset
 
